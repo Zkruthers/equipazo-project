@@ -57,6 +57,19 @@
 
     transform: translate(-50%, -50%);
 }
+#porque-usarlo-cont {
+
+    /*position: relative;
+    left: 50%;
+    top: 48%;
+
+    transform: translate(-50%, -50%);
+*/}
+
+#textito
+{
+    text-align: center; font-family: 'Roboto'; font-weight: lighter; color: #13C13A; font-size: 25px;
+}
 
 #texto
 {
