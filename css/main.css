@@ -81,4 +81,19 @@
 #imgejem
 {
     width: 350px; height: 250px;border-color: greenyellow;
-}           
+}
+
+#subtitulo
+{
+    text-align: center; font-family: 'Quicksand'; font-weight: bold; font-size: 50px;
+}
+
+#form-control
+{
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: green;
+
+    text-align: center;
+}
