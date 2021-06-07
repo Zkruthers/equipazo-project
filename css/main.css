@@ -41,3 +41,31 @@
 
     transform: translate(-50%, -50%);
 }
+
+#subtitulo
+{
+    text-align: center; font-family: 'Quicksand'; font-weight: bold; font-size: 50px;
+}
+#img-container {
+    text-align: center;
+}
+
+#quienes-somos-cont {
+    position: relative;
+    left: 50%;
+    top: 48%;
+
+    transform: translate(-50%, -50%);
+}
+
+#texto
+{
+    
+    text-align: center; font-family: 'Roboto', sans-serif; font-weight: 1px; font-size: 25px;
+}
+
+
+#imgejem
+{
+    width: 350px; height: 250px;border-color: greenyellow;
+}           
